@@ -1,0 +1,716 @@
+fileFormatVersion: 2
+guid: e4293eddefb4f0a4fb502ce5ea7d51d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2683637422787899042
+    second: tyrannosaurus-1-2_0
+  - first:
+      213: -4541405925910536898
+    second: tyrannosaurus-1-2_1
+  - first:
+      213: 3078466322445218690
+    second: tyrannosaurus-1-2_2
+  - first:
+      213: 4841067003691156110
+    second: tyrannosaurus-1-2_3
+  - first:
+      213: 9218807482068940510
+    second: tyrannosaurus-1-2_4
+  - first:
+      213: -3358831255508852790
+    second: tyrannosaurus-1-2_5
+  - first:
+      213: -3761922764126793949
+    second: tyrannosaurus-1-2_6
+  - first:
+      213: 1806117550448065747
+    second: tyrannosaurus-1-2_7
+  - first:
+      213: 1654543207070857601
+    second: tyrannosaurus-1-2_8
+  - first:
+      213: 9075158994854625668
+    second: tyrannosaurus-1-2_9
+  - first:
+      213: -7519652900937921003
+    second: tyrannosaurus-1-2_10
+  - first:
+      213: -4948661676967548281
+    second: tyrannosaurus-1-2_11
+  - first:
+      213: -8911025315956418829
+    second: tyrannosaurus-1-2_12
+  - first:
+      213: -1027340706336428687
+    second: tyrannosaurus-1-2_13
+  - first:
+      213: -5111801527384339498
+    second: tyrannosaurus-1-2_14
+  - first:
+      213: -2875899493402163553
+    second: tyrannosaurus-1-2_15
+  - first:
+      213: 6597442934280594911
+    second: tyrannosaurus-1-2_16
+  - first:
+      213: -7658103312389647076
+    second: tyrannosaurus-1-2_17
+  - first:
+      213: -384711087374799443
+    second: tyrannosaurus-1-2_18
+  - first:
+      213: -8666188692679505692
+    second: tyrannosaurus-1-2_19
+  - first:
+      213: -2150464996011508067
+    second: tyrannosaurus-1-2_20
+  - first:
+      213: 207026674379423090
+    second: tyrannosaurus-1-2_21
+  - first:
+      213: 3768316299131835210
+    second: tyrannosaurus-1-2_22
+  - first:
+      213: -8330766556701176276
+    second: tyrannosaurus-1-2_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5158c48bfdc1cad0800000000000000
+      internalID: -2683637422787899042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 320
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d9f3d2f5fa9f0c0800000000000000
+      internalID: -4541405925910536898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 320
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283b9525fc8e8ba20800000000000000
+      internalID: 3078466322445218690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 320
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8240e07accee2340800000000000000
+      internalID: 4841067003691156110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_4
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 320
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6be65cf88cfef70800000000000000
+      internalID: 9218807482068940510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_5
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 320
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf5aead4c80361d0800000000000000
+      internalID: -3358831255508852790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f44c37d27facbc0800000000000000
+      internalID: -3761922764126793949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 215
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc3e09c75e901910800000000000000
+      internalID: 1806117550448065747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_8
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 215
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1897efad74e16f610800000000000000
+      internalID: 1654543207070857601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 215
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4814088060171fd70800000000000000
+      internalID: 9075158994854625668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 215
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e0c550783d4a790800000000000000
+      internalID: -7519652900937921003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_11
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 215
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78aa2c68c62d25bb0800000000000000
+      internalID: -4948661676967548281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f697e110bda55480800000000000000
+      internalID: -8911025315956418829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 110
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17da48712172eb1f0800000000000000
+      internalID: -1027340706336428687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 110
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db05f5289b3f09b0800000000000000
+      internalID: -5111801527384339498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_15
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 110
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96c90ed5a0c618d0800000000000000
+      internalID: -2875899493402163553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_16
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 110
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5a4bbd463de8b50800000000000000
+      internalID: 6597442934280594911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_17
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 110
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15d5cb9c93f8b590800000000000000
+      internalID: -7658103312389647076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadeed7ed4b39aaf0800000000000000
+      internalID: -384711087374799443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_19
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 5
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8c458ac438bb780800000000000000
+      internalID: -8666188692679505692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_20
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 5
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e72d2da730822e0800000000000000
+      internalID: -2150464996011508067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_21
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 5
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d7a69d9a18fd200800000000000000
+      internalID: 207026674379423090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_22
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 5
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43511b65bfbb4430800000000000000
+      internalID: 3768316299131835210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tyrannosaurus-1-2_23
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 5
+        width: 151
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e4f1974fb236c80800000000000000
+      internalID: -8330766556701176276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

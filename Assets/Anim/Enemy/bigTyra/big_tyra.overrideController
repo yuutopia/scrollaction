@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: big_tyra
+  m_Controller: {fileID: 9100000, guid: ab028a47590656045973af67104856c3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 92b9412063d920b438401e0db898ee0c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6333d16503342d148b37ea835a7ac462, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ca97f2eace37c5b4a8ba9ac22b594a30, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 49fa7e44e8171a645901cf184a81243b, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 5cff2595cedea174ebb954be10e0c5e8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8b3c0248ae73b9e4695ba6246f6955db, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7dea44f035644914ab896b95d894100e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b13e10d32290a8e4aad659e817d7dfe4, type: 2}
