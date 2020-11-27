@@ -715,6 +715,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -728,10 +729,11 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: a3e93080-24f1-45ef-85df-5eb0f47c49fc
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: "\u6A2A\u30B9\u30AF\u30ED\u30FC\u30EB\u30A2\u30AF\u30B7\u30E7\u30F3
+    (1)"
+  organizationId: yuutopiakurouri
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
